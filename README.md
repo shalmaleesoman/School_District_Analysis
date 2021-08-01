@@ -8,15 +8,15 @@
 
 After replacing the ninth graders scores with "NaN" it was concluded that:
 
-*the overall passing percentage for Thomas High School fell to 65%
+* the overall passing percentage for Thomas High School fell to 65%
 
-*the overall passing percentage for the entire district fell to 64.9%
+* the overall passing percentage for the entire district fell to 64.9%
 
 When the scores were ommitted from their calculations
 
-*the overall passing percentages decreased by .11 percent.
+* the overall passing percentages decreased by .11 percent.
 
-*the average scores of Thomas High School for math and reading _increased_ by .06.
+* the average scores of Thomas High School for math and reading _increased_ by .06.
 
 ## Charter Schools vs District Schools
 
